@@ -1,4 +1,4 @@
-## Loud Jira
+# Loud Jira
 #### This is a manual testing project of [LOUD](https://www.loudiasi.ro/) site. The Kanban board can be found in [Jira](https://robibejenar.atlassian.net/jira/software/c/projects/LI/boards/3?atlOrigin=eyJpIjoiMDk4ZTFmNjBmNzIxNGMwZGFhMTNmMjMyNTA2ZTU0NjYiLCJwIjoiaiJ9).
 #### The project tests the main page of the site and it's features.
 ## Working of the project
